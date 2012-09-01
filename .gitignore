@@ -1,0 +1,11 @@
+ *.DS_Store
+ Thumbs.db
+/upload/config.php
+/upload/admin/config.php
+
+/upload/system/cache/
+/upload/system/logs/
+/upload/image/
+/upload/image/cache/
+/upload/image/data/
+/upload/download/
